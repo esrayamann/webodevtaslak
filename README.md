@@ -10,4 +10,4 @@ Bu repo, Esra Yaman'ın kişisel tanıtım sitesine aittir. Sitede, Esra'nın bi
 Site, HTML ve CSS kullanılarak hazırlanmıştır. Videolar gömülü olarak sayfa içinde oynatılabilir.
 
 ## İletişim
-Esra Yaman – esrayaman2332@gmail.com - l2211012003@ogr.sdu.edu.tr
+Esra Yaman - l2211012003@ogr.sdu.edu.tr
